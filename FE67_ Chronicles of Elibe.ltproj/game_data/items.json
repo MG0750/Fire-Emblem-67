@@ -1131,7 +1131,9 @@
             ],
             [
                 "prf_unit",
-                []
+                [
+                    "Lyn"
+                ]
             ],
             [
                 "effective_damage",
@@ -10070,7 +10072,7 @@
     {
         "nid": "Talisman",
         "name": "Talisman",
-        "desc": "Permanently raises Resistance by 2 points.",
+        "desc": "Permanently raises Resistance by 2 points. That stat doesn't exist anymore though.",
         "icon_nid": "Boosters",
         "icon_index": [
             0,
@@ -10095,15 +10097,6 @@
                     "lose_uses_on_miss": false,
                     "one_loss_per_combat": false
                 }
-            ],
-            [
-                "permanent_stat_change",
-                [
-                    [
-                        "RES",
-                        2
-                    ]
-                ]
             ],
             [
                 "usable_in_base",
@@ -10297,10 +10290,6 @@
                     ],
                     [
                         "DEF",
-                        5
-                    ],
-                    [
-                        "RES",
                         5
                     ]
                 ]

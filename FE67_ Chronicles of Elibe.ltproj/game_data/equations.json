@@ -100,10 +100,6 @@
         "expression": "SPD"
     },
     {
-        "nid": "MANA",
-        "expression": "20"
-    },
-    {
         "nid": "ZERO",
         "expression": "0"
     },

@@ -286,6 +286,18 @@
             [
                 "Vulnerary",
                 false
+            ],
+            [
+                "Poison_Sword",
+                false
+            ],
+            [
+                "Toxin_Lance",
+                false
+            ],
+            [
+                "Poison_Axe",
+                false
             ]
         ],
         "learned_skills": [],
