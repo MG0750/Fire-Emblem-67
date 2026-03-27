@@ -18,8 +18,7 @@
             "LCK": 5,
             "DEF": 2,
             "CON": 5,
-            "MOV": 5,
-            "RES": 0
+            "MOV": 5
         },
         "growths": {
             "HP": 70,
@@ -30,10 +29,19 @@
             "LCK": 55,
             "DEF": 20,
             "CON": 0,
-            "MOV": 0,
-            "RES": 30
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Vulnerary",
@@ -115,8 +123,7 @@
             "LCK": 5,
             "DEF": 7,
             "CON": 9,
-            "MOV": 7,
-            "RES": 0
+            "MOV": 7
         },
         "growths": {
             "HP": 80,
@@ -127,10 +134,19 @@
             "LCK": 35,
             "DEF": 20,
             "CON": 0,
-            "MOV": 0,
-            "RES": 20
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Lance",
@@ -208,8 +224,7 @@
             "LCK": 4,
             "DEF": 6,
             "CON": 9,
-            "MOV": 7,
-            "RES": 1
+            "MOV": 7
         },
         "growths": {
             "HP": 85,
@@ -220,10 +235,19 @@
             "LCK": 20,
             "DEF": 25,
             "CON": 0,
-            "MOV": 0,
-            "RES": 25
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Sword",
@@ -301,8 +325,7 @@
             "LCK": 7,
             "DEF": 5,
             "CON": 9,
-            "MOV": 7,
-            "RES": 1
+            "MOV": 7
         },
         "growths": {
             "HP": 75,
@@ -313,10 +336,19 @@
             "LCK": 40,
             "DEF": 20,
             "CON": 0,
-            "MOV": 0,
-            "RES": 25
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Bow",
@@ -393,7 +425,6 @@
             "SPD": 6,
             "LCK": 3,
             "DEF": 3,
-            "RES": 0,
             "CON": 14,
             "MOV": 5
         },
@@ -405,11 +436,20 @@
             "SPD": 20,
             "LCK": 45,
             "DEF": 25,
-            "RES": 15,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -494,7 +534,6 @@
             "SPD": 9,
             "LCK": 8,
             "DEF": 4,
-            "RES": 5,
             "CON": 5,
             "MOV": 7
         },
@@ -506,11 +545,20 @@
             "SPD": 55,
             "LCK": 50,
             "DEF": 15,
-            "RES": 35,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Slim_Lance",
@@ -585,7 +633,7 @@
         "desc": "A young hired sword from the Kutolah tribe.",
         "variant": "",
         "level": 9,
-        "klass": "Cavalier",
+        "klass": "Nomad",
         "tags": [],
         "bases": {
             "HP": 27,
@@ -596,8 +644,7 @@
             "LCK": 5,
             "DEF": 8,
             "CON": 9,
-            "MOV": 7,
-            "RES": 2
+            "MOV": 7
         },
         "growths": {
             "HP": 80,
@@ -608,10 +655,19 @@
             "LCK": 30,
             "DEF": 10,
             "CON": 0,
-            "MOV": 0,
-            "RES": 25
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Bow",
@@ -678,7 +734,7 @@
         "desc": "A retired knight of Caelin. Constantly testing himself.",
         "variant": null,
         "level": 12,
-        "klass": "Knight",
+        "klass": "Axe_Armor",
         "tags": [],
         "bases": {
             "HP": 30,
@@ -689,8 +745,7 @@
             "LCK": 10,
             "DEF": 15,
             "CON": 14,
-            "MOV": 4,
-            "RES": 2
+            "MOV": 4
         },
         "growths": {
             "HP": 70,
@@ -701,10 +756,19 @@
             "LCK": 30,
             "DEF": 35,
             "CON": 0,
-            "MOV": 0,
-            "RES": 35
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -781,7 +845,6 @@
             "SPD": 7,
             "LCK": 2,
             "DEF": 10,
-            "RES": 5,
             "CON": 12,
             "MOV": 8
         },
@@ -793,11 +856,20 @@
             "SPD": 30,
             "LCK": 40,
             "DEF": 30,
-            "RES": 10,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Sword",
@@ -882,7 +954,6 @@
             "SPD": 12,
             "LCK": 10,
             "DEF": 5,
-            "RES": 4,
             "CON": 9,
             "MOV": 5
         },
@@ -894,11 +965,20 @@
             "SPD": 70,
             "LCK": 80,
             "DEF": 30,
-            "RES": 70,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Ninis_s_Grace",
@@ -981,7 +1061,6 @@
             "SPD": 7,
             "LCK": 7,
             "DEF": 5,
-            "RES": 0,
             "CON": 5,
             "MOV": 5
         },
@@ -993,7 +1072,6 @@
             "SPD": 40,
             "LCK": 45,
             "DEF": 30,
-            "RES": 35,
             "CON": 0,
             "MOV": 0
         },
@@ -1005,7 +1083,6 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
             "MOV": 0
         },
@@ -1086,8 +1163,7 @@
             "LCK": 10,
             "DEF": 9,
             "CON": 11,
-            "MOV": 8,
-            "RES": 8
+            "MOV": 8
         },
         "growths": {
             "HP": 60,
@@ -1098,10 +1174,19 @@
             "LCK": 20,
             "DEF": 15,
             "CON": 0,
-            "MOV": 0,
-            "RES": 20
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Steel_Sword",
@@ -1186,7 +1271,6 @@
             "SPD": 7,
             "LCK": 3,
             "DEF": 7,
-            "RES": 0,
             "CON": 9,
             "MOV": 5
         },
@@ -1198,11 +1282,20 @@
             "SPD": 30,
             "LCK": 50,
             "DEF": 40,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -1283,7 +1376,6 @@
             "SPD": 6,
             "LCK": 4,
             "DEF": 3,
-            "RES": 1,
             "CON": 8,
             "MOV": 5
         },
@@ -1295,11 +1387,20 @@
             "SPD": 60,
             "LCK": 50,
             "DEF": 15,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Bow",
@@ -1380,7 +1481,6 @@
             "SPD": 3,
             "LCK": 4,
             "DEF": 4,
-            "RES": 0,
             "CON": 5,
             "MOV": 5
         },
@@ -1392,11 +1492,20 @@
             "SPD": 40,
             "LCK": 30,
             "DEF": 30,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -1479,7 +1588,6 @@
             "SPD": 5,
             "LCK": 3,
             "DEF": 8,
-            "RES": 0,
             "CON": 6,
             "MOV": 6
         },
@@ -1491,11 +1599,20 @@
             "SPD": 35,
             "LCK": 30,
             "DEF": 50,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -1562,7 +1679,7 @@
         "desc": "A knight in service to House Ostia. Hector\u2019s sworn man.",
         "variant": "",
         "level": 9,
-        "klass": "Knight",
+        "klass": "Lance_Armor",
         "tags": [],
         "bases": {
             "HP": 28,
@@ -1572,7 +1689,6 @@
             "SPD": 5,
             "LCK": 3,
             "DEF": 13,
-            "RES": 3,
             "CON": 6,
             "MOV": 5
         },
@@ -1584,11 +1700,20 @@
             "SPD": 30,
             "LCK": 35,
             "DEF": 55,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Lance",
@@ -1669,7 +1794,6 @@
             "SPD": 8,
             "LCK": 6,
             "DEF": 2,
-            "RES": 5,
             "CON": 3,
             "MOV": 5
         },
@@ -1681,11 +1805,20 @@
             "SPD": 40,
             "LCK": 60,
             "DEF": 15,
-            "RES": 55,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Heal",
@@ -1762,7 +1895,6 @@
             "SPD": 11,
             "LCK": 2,
             "DEF": 3,
-            "RES": 0,
             "CON": 4,
             "MOV": 5
         },
@@ -1774,11 +1906,20 @@
             "SPD": 70,
             "LCK": 50,
             "DEF": 25,
-            "RES": 20,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Sword",
@@ -1859,7 +2000,6 @@
             "SPD": 11,
             "LCK": 5,
             "DEF": 5,
-            "RES": 0,
             "CON": 8,
             "MOV": 5
         },
@@ -1871,11 +2011,20 @@
             "SPD": 70,
             "LCK": 45,
             "DEF": 15,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Killing_Edge",
@@ -1952,7 +2101,6 @@
             "SPD": 5,
             "LCK": 12,
             "DEF": 5,
-            "RES": 2,
             "CON": 9,
             "MOV": 7
         },
@@ -1964,11 +2112,20 @@
             "SPD": 90,
             "LCK": 100,
             "DEF": 30,
-            "RES": 15,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [],
         "learned_skills": [],
         "unit_notes": [],
@@ -2040,7 +2197,6 @@
             "SPD": 8,
             "LCK": 3,
             "DEF": 6,
-            "RES": 1,
             "CON": 10,
             "MOV": 7
         },
@@ -2052,11 +2208,20 @@
             "SPD": 60,
             "LCK": 35,
             "DEF": 20,
-            "RES": 15,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -2133,7 +2298,6 @@
             "SPD": 13,
             "LCK": 8,
             "DEF": 6,
-            "RES": 7,
             "CON": 5,
             "MOV": 7
         },
@@ -2145,11 +2309,20 @@
             "SPD": 65,
             "LCK": 60,
             "DEF": 20,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Heavy_Spear",
@@ -2234,7 +2407,6 @@
             "SPD": 4,
             "LCK": 6,
             "DEF": 2,
-            "RES": 3,
             "CON": 6,
             "MOV": 4
         },
@@ -2246,11 +2418,20 @@
             "SPD": 50,
             "LCK": 60,
             "DEF": 35,
-            "RES": 20,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Slim_Lance",
@@ -2335,7 +2516,6 @@
             "SPD": 15,
             "LCK": 14,
             "DEF": 10,
-            "RES": 9,
             "CON": 9,
             "MOV": 6
         },
@@ -2347,11 +2527,20 @@
             "SPD": 45,
             "LCK": 45,
             "DEF": 20,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Bow",
@@ -2436,7 +2625,6 @@
             "SPD": 13,
             "LCK": 8,
             "DEF": 10,
-            "RES": 4,
             "CON": 13,
             "MOV": 5
         },
@@ -2448,11 +2636,20 @@
             "SPD": 30,
             "LCK": 30,
             "DEF": 35,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Steel_Blade",
@@ -2537,7 +2734,6 @@
             "SPD": 12,
             "LCK": 10,
             "DEF": 5,
-            "RES": 4,
             "CON": 5,
             "MOV": 5
         },
@@ -2549,11 +2745,20 @@
             "SPD": 70,
             "LCK": 80,
             "DEF": 30,
-            "RES": 75,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Elixir",
@@ -2638,7 +2843,6 @@
             "SPD": 13,
             "LCK": 9,
             "DEF": 4,
-            "RES": 3,
             "CON": 5,
             "MOV": 5
         },
@@ -2650,11 +2854,20 @@
             "SPD": 60,
             "LCK": 50,
             "DEF": 15,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Shamshir",
@@ -2735,7 +2948,6 @@
             "SPD": 10,
             "LCK": 12,
             "DEF": 5,
-            "RES": 8,
             "CON": 5,
             "MOV": 6
         },
@@ -2747,11 +2959,20 @@
             "SPD": 45,
             "LCK": 65,
             "DEF": 15,
-            "RES": 50,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Mend",
@@ -2836,7 +3057,6 @@
             "SPD": 9,
             "LCK": 4,
             "DEF": 11,
-            "RES": 6,
             "CON": 16,
             "MOV": 6
         },
@@ -2848,11 +3068,20 @@
             "SPD": 40,
             "LCK": 30,
             "DEF": 30,
-            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Battle_Axe",
@@ -2933,7 +3162,6 @@
             "SPD": 14,
             "LCK": 11,
             "DEF": 8,
-            "RES": 13,
             "CON": 8,
             "MOV": 6
         },
@@ -2945,11 +3173,20 @@
             "SPD": 40,
             "LCK": 40,
             "DEF": 30,
-            "RES": 35,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Elfire",
@@ -3030,7 +3267,6 @@
             "SPD": 5,
             "LCK": 5,
             "DEF": 0,
-            "RES": 3,
             "CON": 5,
             "MOV": 4
         },
@@ -3042,11 +3278,20 @@
             "SPD": 45,
             "LCK": 60,
             "DEF": 20,
-            "RES": 45,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Fire",
@@ -3131,7 +3376,6 @@
             "SPD": 10,
             "LCK": 4,
             "DEF": 12,
-            "RES": 2,
             "CON": 11,
             "MOV": 7
         },
@@ -3143,11 +3387,20 @@
             "SPD": 45,
             "LCK": 35,
             "DEF": 25,
-            "RES": 15,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Killer_Lance",
@@ -3232,7 +3485,6 @@
             "SPD": 17,
             "LCK": 5,
             "DEF": 9,
-            "RES": 11,
             "CON": 7,
             "MOV": 0
         },
@@ -3244,11 +3496,20 @@
             "SPD": 60,
             "LCK": 25,
             "DEF": 25,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Steel_Sword",
@@ -3329,7 +3590,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -3341,11 +3601,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -3430,7 +3699,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -3442,11 +3710,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -3531,7 +3808,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -3543,11 +3819,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -3632,7 +3917,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -3644,11 +3928,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -3733,7 +4026,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -3745,11 +4037,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -3834,7 +4135,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -3846,11 +4146,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -3935,7 +4244,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -3947,11 +4255,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4036,7 +4353,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4048,11 +4364,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4137,7 +4462,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4149,11 +4473,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4238,7 +4571,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4250,11 +4582,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4339,7 +4680,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4351,11 +4691,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4440,7 +4789,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4452,11 +4800,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4541,7 +4898,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4553,11 +4909,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4642,7 +5007,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4654,11 +5018,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4743,7 +5116,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4755,11 +5127,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4844,7 +5225,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4856,11 +5236,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -4945,7 +5334,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -4957,11 +5345,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -5046,7 +5443,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -5058,11 +5454,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -5147,7 +5552,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -5159,11 +5563,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -5248,7 +5661,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -5260,11 +5672,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -5349,7 +5770,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -5361,11 +5781,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -5450,7 +5879,6 @@
             "SPD": 12,
             "LCK": 8,
             "DEF": 17,
-            "RES": 9,
             "CON": 15,
             "MOV": 6
         },
@@ -5462,11 +5890,20 @@
             "SPD": 30,
             "LCK": 20,
             "DEF": 45,
-            "RES": 30,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Silver_Lance",
@@ -5554,8 +5991,7 @@
             "LCK": 0,
             "DEF": 2,
             "CON": 11,
-            "MOV": 5,
-            "RES": 0
+            "MOV": 5
         },
         "growths": {
             "HP": 0,
@@ -5566,10 +6002,19 @@
             "LCK": 0,
             "DEF": 0,
             "CON": 0,
-            "MOV": 0,
-            "RES": 0
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -5649,8 +6094,7 @@
             "LCK": 2,
             "DEF": 9,
             "CON": 13,
-            "MOV": 4,
-            "RES": 0
+            "MOV": 4
         },
         "growths": {
             "HP": 80,
@@ -5661,10 +6105,19 @@
             "LCK": 25,
             "DEF": 28,
             "CON": 0,
-            "MOV": 0,
-            "RES": 20
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Lance",
@@ -5744,8 +6197,7 @@
             "LCK": 0,
             "DEF": 5,
             "CON": 12,
-            "MOV": 5,
-            "RES": 1
+            "MOV": 5
         },
         "growths": {
             "HP": 0,
@@ -5756,10 +6208,19 @@
             "LCK": 0,
             "DEF": 0,
             "CON": 0,
-            "MOV": 0,
-            "RES": 0
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Iron_Axe",
@@ -5839,8 +6300,7 @@
             "LCK": 0,
             "DEF": 5,
             "CON": 12,
-            "MOV": 5,
-            "RES": 3
+            "MOV": 5
         },
         "growths": {
             "HP": 0,
@@ -5851,10 +6311,19 @@
             "LCK": 0,
             "DEF": 0,
             "CON": 0,
-            "MOV": 0,
-            "RES": 0
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Steel_Axe",
@@ -5938,8 +6407,7 @@
             "LCK": 4,
             "DEF": 11,
             "CON": 13,
-            "MOV": 4,
-            "RES": 3
+            "MOV": 4
         },
         "growths": {
             "HP": 0,
@@ -5950,10 +6418,19 @@
             "LCK": 0,
             "DEF": 0,
             "CON": 0,
-            "MOV": 0,
-            "RES": 0
+            "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Javelin",
@@ -6030,7 +6507,6 @@
             "SPD": 17,
             "LCK": 11,
             "DEF": 11,
-            "RES": 18,
             "CON": 6,
             "MOV": 7
         },
@@ -6042,11 +6518,20 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Bolting",
@@ -6127,7 +6612,6 @@
             "SPD": 11,
             "LCK": 10,
             "DEF": 21,
-            "RES": 13,
             "CON": 17,
             "MOV": 5
         },
@@ -6139,11 +6623,20 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Spear",
@@ -6224,7 +6717,6 @@
             "SPD": 14,
             "LCK": 15,
             "DEF": 16,
-            "RES": 14,
             "CON": 13,
             "MOV": 6
         },
@@ -6236,11 +6728,20 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Tomahawk",
@@ -6325,7 +6826,6 @@
             "SPD": 18,
             "LCK": 4,
             "DEF": 14,
-            "RES": 13,
             "CON": 11,
             "MOV": 8
         },
@@ -6337,11 +6837,20 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Spear",
@@ -6426,7 +6935,6 @@
             "SPD": 20,
             "LCK": 11,
             "DEF": 16,
-            "RES": 20,
             "CON": 7,
             "MOV": 6
         },
@@ -6438,11 +6946,20 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Aura",
@@ -6519,7 +7036,6 @@
             "SPD": 12,
             "LCK": 5,
             "DEF": 17,
-            "RES": 20,
             "CON": 7,
             "MOV": 6
         },
@@ -6531,11 +7047,20 @@
             "SPD": 0,
             "LCK": 0,
             "DEF": 0,
-            "RES": 0,
             "CON": 0,
             "MOV": 0
         },
-        "stat_cap_modifiers": {},
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
         "starting_items": [
             [
                 "Nosferatu",
