@@ -1330,5 +1330,29 @@
             32
         ],
         "info_offset": 0
+    },
+    {
+        "nid": "Douglas",
+        "blinking_offset": [
+            56,
+            0
+        ],
+        "smiling_offset": [
+            16,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Yuno",
+        "blinking_offset": [
+            56,
+            0
+        ],
+        "smiling_offset": [
+            16,
+            40
+        ],
+        "info_offset": 0
     }
 ]
