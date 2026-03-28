@@ -88,6 +88,19 @@
                 "generic": true
             },
             {
+                "nid": "Beyard",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    10,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
                 "nid": "Sain",
                 "team": "player",
                 "ai": "None",
@@ -979,6 +992,45 @@
                 "generic": false
             },
             {
+                "nid": "Beyard",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Yogi",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Heintz",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
                 "nid": "Bazba",
                 "team": "player",
                 "ai": "None",
@@ -1012,6 +1064,19 @@
                 "ai_group": "",
                 "starting_position": [
                     13,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lundgren",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
                     5
                 ],
                 "starting_traveler": null,
@@ -1484,6 +1549,19 @@
                 "generic": false
             },
             {
+                "nid": "Yogi",
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    2,
+                    2
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
                 "nid": "101",
                 "variant": null,
                 "level": 2,
@@ -1810,6 +1888,7 @@
             {
                 "nid": "Enemy1",
                 "units": [
+                    "Yogi",
                     "101",
                     "102",
                     "103",
@@ -1841,6 +1920,10 @@
                     "103": [
                         1,
                         8
+                    ],
+                    "Yogi": [
+                        2,
+                        5
                     ]
                 }
             },
@@ -2012,6 +2095,19 @@
                 "starting_position": [
                     10,
                     4
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Heintz",
+                "team": "enemy",
+                "ai": "Pursue",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    9,
+                    14
                 ],
                 "starting_traveler": null,
                 "generic": false
@@ -2347,6 +2443,7 @@
                 "units": [
                     "TopBandit",
                     "105",
+                    "Heintz",
                     "BoneBuddy"
                 ],
                 "positions": {
@@ -2360,6 +2457,10 @@
                     ],
                     "BoneBuddy": [
                         11,
+                        7
+                    ],
+                    "Heintz": [
+                        13,
                         7
                     ]
                 }
@@ -5103,6 +5204,19 @@
         "should_record": true,
         "tags": [],
         "units": [
+            {
+                "nid": "Heintz",
+                "team": "enemy",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    2,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
             {
                 "nid": "Lyn",
                 "team": "player",
