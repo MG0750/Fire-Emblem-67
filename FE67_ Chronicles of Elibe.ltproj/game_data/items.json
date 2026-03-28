@@ -5030,7 +5030,7 @@
             ],
             [
                 "damage",
-                5
+                8
             ],
             [
                 "hit",
@@ -5061,7 +5061,7 @@
             ],
             [
                 "wexp",
-                0
+                4
             ],
             [
                 "min_range",
@@ -5069,7 +5069,7 @@
             ],
             [
                 "max_range",
-                6
+                10
             ],
             [
                 "weapon_rank",
@@ -5093,7 +5093,7 @@
                         "Flying"
                     ],
                     "effective_multiplier": 1.0,
-                    "effective_bonus_damage": 10,
+                    "effective_bonus_damage": 16,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
@@ -7321,7 +7321,7 @@
             ],
             [
                 "weapon_type",
-                "Fire"
+                "Wind"
             ],
             [
                 "weapon_rank",
@@ -7389,7 +7389,7 @@
             ],
             [
                 "weapon_type",
-                "Thunder"
+                "Wind"
             ],
             [
                 "weapon_rank",
@@ -7472,7 +7472,7 @@
             ],
             [
                 "weapon_type",
-                "Fire"
+                "Wind"
             ],
             [
                 "weapon_rank",
@@ -7555,7 +7555,7 @@
             ],
             [
                 "weapon_type",
-                "Thunder"
+                "Wind"
             ],
             [
                 "weapon_rank",

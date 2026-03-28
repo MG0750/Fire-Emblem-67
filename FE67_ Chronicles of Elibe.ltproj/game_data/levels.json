@@ -88,7 +88,7 @@
                 "generic": true
             },
             {
-                "nid": "Beyard",
+                "nid": "O'Neill",
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -987,7 +987,7 @@
                 "generic": false
             },
             {
-                "nid": "Beyard",
+                "nid": "O'Neill",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1000,7 +1000,7 @@
                 "generic": false
             },
             {
-                "nid": "Yogi",
+                "nid": "Breguet",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1013,7 +1013,7 @@
                 "generic": false
             },
             {
-                "nid": "Heintz",
+                "nid": "Bone",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1065,7 +1065,7 @@
                 "generic": false
             },
             {
-                "nid": "Lundgren",
+                "nid": "Vigarde",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1296,7 +1296,7 @@
                 "generic": false
             },
             {
-                "nid": "Yogi",
+                "nid": "Breguet",
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -1635,7 +1635,7 @@
             {
                 "nid": "Enemy1",
                 "units": [
-                    "Yogi",
+                    "Breguet",
                     "101",
                     "102",
                     "103",
@@ -1644,6 +1644,10 @@
                     "106"
                 ],
                 "positions": {
+                    "Breguet": [
+                        2,
+                        5
+                    ],
                     "101": [
                         1,
                         6
@@ -1667,10 +1671,6 @@
                     "103": [
                         1,
                         8
-                    ],
-                    "Yogi": [
-                        2,
-                        5
                     ]
                 }
             },
@@ -1847,7 +1847,7 @@
                 "generic": false
             },
             {
-                "nid": "Heintz",
+                "nid": "Bone",
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -2190,7 +2190,7 @@
                 "units": [
                     "TopBandit",
                     "105",
-                    "Heintz",
+                    "Bone",
                     "BoneBuddy"
                 ],
                 "positions": {
@@ -2202,12 +2202,12 @@
                         14,
                         9
                     ],
-                    "BoneBuddy": [
-                        11,
+                    "Bone": [
+                        13,
                         7
                     ],
-                    "Heintz": [
-                        13,
+                    "BoneBuddy": [
+                        11,
                         7
                     ]
                 }
@@ -4952,7 +4952,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Heintz",
+                "nid": "Bone",
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,

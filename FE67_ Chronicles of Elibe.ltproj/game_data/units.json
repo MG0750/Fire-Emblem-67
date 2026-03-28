@@ -729,126 +729,6 @@
         "fields": []
     },
     {
-        "nid": "Erk",
-        "name": "Erk",
-        "desc": "A young lady of Frelia. She is both cheery and sociable.",
-        "variant": null,
-        "level": 4,
-        "klass": "Thunder_Mage",
-        "tags": [],
-        "bases": {
-            "HP": 20,
-            "STR": 7,
-            "MAG": 4,
-            "SKL": 9,
-            "SPD": 13,
-            "LCK": 8,
-            "DEF": 6,
-            "CON": 5,
-            "MOV": 7
-        },
-        "growths": {
-            "HP": 65,
-            "STR": 20,
-            "MAG": 40,
-            "SKL": 40,
-            "SPD": 50,
-            "LCK": 30,
-            "DEF": 20,
-            "CON": 0,
-            "MOV": 0
-        },
-        "stat_cap_modifiers": {
-            "MAG": 0,
-            "DEF": 0,
-            "MOV": 0,
-            "SPD": 0,
-            "CON": 0,
-            "LCK": 0,
-            "STR": 0,
-            "SKL": 0,
-            "HP": 0
-        },
-        "starting_items": [
-            [
-                "Thunder",
-                false
-            ],
-            [
-                "Vulnerary",
-                false
-            ]
-        ],
-        "learned_skills": [],
-        "unit_notes": [],
-        "wexp_gain": {
-            "Sword": [
-                false,
-                0,
-                251
-            ],
-            "Lance": [
-                true,
-                0,
-                251
-            ],
-            "Axe": [
-                false,
-                0,
-                251
-            ],
-            "Bow": [
-                false,
-                0,
-                251
-            ],
-            "Staff": [
-                false,
-                0,
-                251
-            ],
-            "Light": [
-                false,
-                0,
-                251
-            ],
-            "Anima": [
-                false,
-                0,
-                251
-            ],
-            "Dark": [
-                false,
-                0,
-                251
-            ],
-            "Default": [
-                false,
-                0,
-                251
-            ],
-            "Fire": [
-                false,
-                3,
-                null
-            ],
-            "Wind": [
-                false,
-                1,
-                null
-            ],
-            "Thunder": [
-                false,
-                1,
-                null
-            ]
-        },
-        "alternate_classes": [],
-        "portrait_nid": "Erk",
-        "affinity": "Thunder",
-        "fields": []
-    },
-    {
         "nid": "Wallace",
         "name": "Wallace",
         "desc": "A retired knight of Caelin. Constantly testing himself.",
@@ -2400,6 +2280,115 @@
         "alternate_classes": [],
         "portrait_nid": "Dart",
         "affinity": "Ice",
+        "fields": []
+    },
+    {
+        "nid": "Erk",
+        "name": "Erk",
+        "desc": "A young lady of Frelia. She is both cheery and sociable.",
+        "variant": null,
+        "level": 4,
+        "klass": "Pegasus_Knight",
+        "tags": [],
+        "bases": {
+            "HP": 20,
+            "STR": 7,
+            "MAG": 4,
+            "SKL": 9,
+            "SPD": 13,
+            "LCK": 8,
+            "DEF": 6,
+            "CON": 5,
+            "MOV": 7
+        },
+        "growths": {
+            "HP": 65,
+            "STR": 45,
+            "MAG": 25,
+            "SKL": 40,
+            "SPD": 65,
+            "LCK": 60,
+            "DEF": 20,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
+        "starting_items": [
+            [
+                "Heavy_Spear",
+                false
+            ],
+            [
+                "Javelin",
+                false
+            ],
+            [
+                "Vulnerary",
+                false
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                true,
+                31,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Erk",
+        "affinity": "Wind",
         "fields": []
     },
     {
@@ -5984,24 +5973,24 @@
         "fields": []
     },
     {
-        "nid": "Beyard",
-        "name": "Beyard",
+        "nid": "O'Neill",
+        "name": "O'Neill",
         "desc": "A troop leader in Grado's army.",
         "variant": "",
-        "level": 7,
-        "klass": "Mercenary",
+        "level": 4,
+        "klass": "Fighter",
         "tags": [
             "Boss"
         ],
         "bases": {
             "HP": 24,
-            "STR": 8,
-            "MAG": 1,
-            "SKL": 8,
+            "STR": 7,
+            "MAG": 0,
+            "SKL": 4,
             "SPD": 7,
-            "LCK": 4,
-            "DEF": 5,
-            "CON": 10,
+            "LCK": 0,
+            "DEF": 2,
+            "CON": 11,
             "MOV": 5
         },
         "growths": {
@@ -6028,7 +6017,7 @@
         },
         "starting_items": [
             [
-                "Steel_Blade",
+                "Iron_Axe",
                 false
             ]
         ],
@@ -6037,7 +6026,7 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                3,
+                0,
                 251
             ],
             "Lance": [
@@ -6047,7 +6036,7 @@
             ],
             "Axe": [
                 true,
-                0,
+                71,
                 251
             ],
             "Bow": [
@@ -6087,7 +6076,7 @@
         "fields": []
     },
     {
-        "nid": "Yogi",
+        "nid": "Breguet",
         "name": "Breguet",
         "desc": "Commander of a Grado military force.",
         "variant": "",
@@ -6190,24 +6179,24 @@
         "fields": []
     },
     {
-        "nid": "Heintz",
-        "name": "Heintz",
+        "nid": "Bone",
+        "name": "Bone",
         "desc": "One of Bazba's henchmen.",
         "variant": null,
         "level": 4,
-        "klass": "Shaman",
+        "klass": "Brigand",
         "tags": [
             "Boss"
         ],
         "bases": {
-            "HP": 22,
-            "STR": 3,
-            "MAG": 5,
-            "SKL": 5,
-            "SPD": 7,
-            "LCK": 3,
-            "DEF": 3,
-            "CON": 9,
+            "HP": 26,
+            "STR": 8,
+            "MAG": 0,
+            "SKL": 6,
+            "SPD": 6,
+            "LCK": 0,
+            "DEF": 5,
+            "CON": 12,
             "MOV": 5
         },
         "growths": {
@@ -6234,7 +6223,7 @@
         },
         "starting_items": [
             [
-                "Flux",
+                "Iron_Axe",
                 false
             ]
         ],
@@ -6253,117 +6242,12 @@
             ],
             "Axe": [
                 true,
-                0,
+                31,
                 251
             ],
             "Bow": [
                 false,
                 0,
-                251
-            ],
-            "Staff": [
-                false,
-                0,
-                251
-            ],
-            "Light": [
-                false,
-                0,
-                251
-            ],
-            "Anima": [
-                false,
-                0,
-                251
-            ],
-            "Dark": [
-                false,
-                2,
-                251
-            ],
-            "Default": [
-                false,
-                0,
-                251
-            ]
-        },
-        "alternate_classes": [],
-        "portrait_nid": "Bone",
-        "affinity": "None",
-        "fields": []
-    },
-    {
-        "nid": "Lundgren",
-        "name": "Lundgren",
-        "desc": "The emperor of Grado, resurrected by the power of the Dark Stone",
-        "variant": "",
-        "level": 15,
-        "klass": "General",
-        "tags": [],
-        "bases": {
-            "HP": 35,
-            "STR": 12,
-            "MAG": 7,
-            "SKL": 8,
-            "SPD": 5,
-            "LCK": 6,
-            "DEF": 14,
-            "CON": 15,
-            "MOV": 5
-        },
-        "growths": {
-            "HP": 0,
-            "STR": 0,
-            "MAG": 0,
-            "SKL": 0,
-            "SPD": 0,
-            "LCK": 0,
-            "DEF": 0,
-            "CON": 0,
-            "MOV": 0
-        },
-        "stat_cap_modifiers": {
-            "MAG": 0,
-            "DEF": 0,
-            "MOV": 0,
-            "SPD": 0,
-            "CON": 0,
-            "LCK": 0,
-            "STR": 0,
-            "SKL": 0,
-            "HP": 0
-        },
-        "starting_items": [
-            [
-                "Silver_Lance",
-                false
-            ],
-            [
-                "Javelin",
-                true
-            ]
-        ],
-        "learned_skills": [],
-        "unit_notes": [],
-        "wexp_gain": {
-            "Sword": [
-                false,
-                3,
-                251
-            ],
-            "Lance": [
-                false,
-                3,
-                251
-            ],
-            "Axe": [
-                false,
-                3,
-                251
-            ],
-            "Bow": [
-                false,
-                3,
                 251
             ],
             "Staff": [
@@ -6393,7 +6277,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "VigardeHealthy",
+        "portrait_nid": "Bone",
         "affinity": "None",
         "fields": []
     },
@@ -6710,6 +6594,111 @@
         "alternate_classes": [],
         "portrait_nid": "Selena",
         "affinity": null,
+        "fields": []
+    },
+    {
+        "nid": "Vigarde",
+        "name": "Vigarde",
+        "desc": "The emperor of Grado, resurrected by the power of the Dark Stone",
+        "variant": "",
+        "level": 13,
+        "klass": "General",
+        "tags": [],
+        "bases": {
+            "HP": 54,
+            "STR": 22,
+            "MAG": 7,
+            "SKL": 15,
+            "SPD": 11,
+            "LCK": 10,
+            "DEF": 21,
+            "CON": 17,
+            "MOV": 5
+        },
+        "growths": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "DEF": 0,
+            "MOV": 0,
+            "SPD": 0,
+            "CON": 0,
+            "LCK": 0,
+            "STR": 0,
+            "SKL": 0,
+            "HP": 0
+        },
+        "starting_items": [
+            [
+                "Spear",
+                false
+            ],
+            [
+                "Placeholder",
+                true
+            ]
+        ],
+        "learned_skills": [],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                181,
+                251
+            ],
+            "Lance": [
+                false,
+                251,
+                251
+            ],
+            "Axe": [
+                false,
+                181,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "VigardeHealthy",
+        "affinity": "None",
         "fields": []
     },
     {
