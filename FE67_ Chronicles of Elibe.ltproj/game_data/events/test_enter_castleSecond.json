@@ -1,0 +1,34 @@
+[
+    {
+        "name": "enter_castleSecond",
+        "trigger": "Visit",
+        "level_nid": "test",
+        "condition": "region.nid == 'OtherCastle_b'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "t;close",
+            "#_castleType 0 is your home castle",
+            "#_castleType 1 is a captured castle",
+            "game_var;_castleType;1",
+            "#_current_castle is a string that is used when looking up what castle's unit list to use.",
+            "game_var;_currentCastle;\"Captured\"",
+            "#This tells the game what's for sale in the castle market's armory",
+            "game_var;_castleArmoryGoods;[\"Vulnerary\",\"Torch\"]",
+            "game_var;_castleArmoryStock;[5,5]",
+            "",
+            "#Save the unit's position and then remove them. We do the former in case the player cancels out of a castle, and we do the latter to prevent the player from having a unit simultaneously inside and outside a castle.",
+            "game_var;_castlePosition;unit.position",
+            "remove_unit;{unit}",
+            "",
+            "t;open;0;no_block",
+            "",
+            "#Go to the castle unit select screen",
+            "trigger_script;Global RunCastle_units;{unit}",
+            "",
+            "has_visited;{unit}"
+        ],
+        "nid": "test enter_castleSecond"
+    }
+]

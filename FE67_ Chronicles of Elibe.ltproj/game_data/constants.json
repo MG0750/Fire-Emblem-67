@@ -212,10 +212,6 @@
         true
     ],
     [
-        "enable_rating",
-        true
-    ],
-    [
         "show_abilities",
         true
     ],
@@ -286,10 +282,6 @@
     [
         "title_sound",
         true
-    ],
-    [
-        "title_full_support",
-        false
     ],
     [
         "music_main",

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Start_testMap",
+        "trigger": "level_start",
+        "level_nid": "test",
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "#pyev1",
+            "",
+            "#Gets all of the player's units that are alive.",
+            "playerAliveParty = game.get_units_in_party()",
+            "",
+            "#Can you guess what this does?",
+            "$enable_convoy \"true\"",
+            "",
+            "#This just clears most of the units out of the debug map.",
+            "i = 0",
+            "for pUnit in playerAliveParty:",
+            "    if (playerAliveParty[i].name != \"Lyn\") and (playerAliveParty[i].name != \"Sain\") and (playerAliveParty[i].name != \"Kent\"):",
+            "        $remove_unit playerAliveParty[i].name",
+            "    i += 1",
+            "",
+            "#Find all of the player's units that aren't deployed to the map, as we don't want to add pre-deployed units to the castle. We do this by checking if they don't have a position on the map.",
+            "playerUndeployedParty = []",
+            "i = 0",
+            "for pUnit in playerAliveParty:",
+            "    if playerAliveParty[i].position == None:",
+            "        playerUndeployedParty.append(playerAliveParty[i])",
+            "    i += 1",
+            "#print(playerUndeployedParty)",
+            "$game_var \"_castleHome_occupants\" [unit.name for unit in playerUndeployedParty]",
+            "",
+            "#Temp",
+            "$sound \"Item\"",
+            "game.get_unit(\"Lyn\").personal_funds = 10000"
+        ],
+        "nid": "test Start_testMap"
+    }
+]

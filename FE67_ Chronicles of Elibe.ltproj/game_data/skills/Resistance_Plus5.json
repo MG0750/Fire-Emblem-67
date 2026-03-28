@@ -1,0 +1,13 @@
+[
+    {
+        "nid": "Resistance_Plus5",
+        "name": "Resistance +5",
+        "desc": "Grants RES +5. We don't have a separate RES stat though so I have no idea what this will do now.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            9,
+            9
+        ],
+        "components": []
+    }
+]

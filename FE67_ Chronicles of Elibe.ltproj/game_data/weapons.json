@@ -4,7 +4,6 @@
         "name": "Sword",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -82,7 +81,6 @@
         "name": "Lance",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -160,7 +158,6 @@
         "name": "Axe",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -238,7 +235,6 @@
         "name": "Bow",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -290,7 +286,6 @@
         "name": "Staff",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -342,7 +337,6 @@
         "name": "Light",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -420,7 +414,6 @@
         "name": "Wind",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -498,7 +491,6 @@
         "name": "Anima",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -576,7 +568,6 @@
         "name": "Anima",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -654,7 +645,6 @@
         "name": "Dark",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [
             {
                 "weapon_type": "Sword",
@@ -732,7 +722,6 @@
         "name": "Consumable",
         "force_melee_anim": false,
         "hide_from_display": false,
-        "hide_from_convoy": false,
         "rank_bonus": [],
         "advantage": [],
         "disadvantage": [],
